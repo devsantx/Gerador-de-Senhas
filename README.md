@@ -52,3 +52,19 @@ Um aplicativo de gerador de senhas desenvolvido com **React Native**, utilizando
     <img src="imagens_do_projeto/password.png" alt="Imagem da tela de senhas" width="200">
 </div>
 
+
+## 🤝 Agradecimentos
+
+Este projeto foi inspirado e desenvolvido com base no tutorial do Sujeito Programador no YouTube. Agradeço pelo conteúdo detalhado e educativo, que permitiu a criação deste aplicativo.
+
+## Contato
+
+Se tiver dúvidas ou quiser discutir ideias e oportunidades, sinta-se à vontade para entrar em contato:
+
+- **E-mail**: [kauansantana2721@gmail.com](mailto:kauansantana2721@gmail.com)
+- **LinkedIn**: [linkedin.com/in/devsantx](https://www.linkedin.com/in/devsantx)
+- **GitHub**: [github.com/devsantx](https://github.com/devsantx)
+
+---
+
+Este projeto é atualizado regularmente e faz parte do meu aprendizado contínuo. Obrigado por visitar e explorar meu trabalho!
